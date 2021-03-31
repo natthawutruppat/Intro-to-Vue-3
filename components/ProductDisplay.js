@@ -48,7 +48,7 @@ app.component('product-display', {
    `,
   data() {
     return {
-      product: 'Socks',
+      product: 'Jaehyun',
       brand: 'Vue Mastery',
       selectedVariant: 0,
       details: ['80% cotton', '20% polyester', 'Gender-neutral'],
